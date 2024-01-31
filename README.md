@@ -1,4 +1,4 @@
-# Portfólio
+# Portfólio 1
 Clone do modelo de portfólio <a href="https://github.com/Maclinz/JS_CSS_PortfolioProject">JS_CSS_PortfolioProject</a>,
 clonado com o objetivo de praticar mais opções de designs e efeitos via CSS, bem como aplicar JS na transição de páginas.
 
